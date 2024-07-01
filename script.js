@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function() {
     const images = [
-        'images/product1.jpg',
-        'images/product2.jpg',
-        'images/product3.jpg'
+        'product1.jpg',
+        'product2.jpg',
+        'product3.jpg'
     ];
 
     let currentIndex = 0;
