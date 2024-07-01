@@ -1,3 +1,3 @@
-document.addEventListener('DOMContentLoaded', function () {
-    console.log("Website loaded!");
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Welcome to the Artisanal Goods Store!");
 });
