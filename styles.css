@@ -6,7 +6,7 @@ body, h1, h2, p, ul, li {
 
 header {
     background-color: #855E42;
-    color: #FFF;
+    color: white;
     padding: 1em 0;
     text-align: center;
 }
@@ -22,7 +22,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #FFF;
+    color: white;
     text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ footer {
     text-align: center;
     padding: 10px 0;
     background-color: #444;
-    color: #FFF;
+    color: white;
 }
 
 section {
@@ -44,4 +44,14 @@ section {
     background-color: #f4f4f4;
     padding: 20px;
     border-radius: 8px;
+}
+
+#gallery img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+
+#gallery div {
+    margin-top: 10px;
 }
